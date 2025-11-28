@@ -5,4 +5,4 @@ I am Mijail Gutierrez, a mathematics masters (Part III) student at Downing, Univ
 
 # Notes
 
-These are my notes from Part III and other combinatorics and number theory material that I found interesting.
+These are my notes from Part III with other combinatorics and number theory material that I found interesting.
