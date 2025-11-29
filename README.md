@@ -6,3 +6,10 @@ I am Mijail Gutierrez, a mathematics masters (Part III) student at Downing, Univ
 # Notes
 
 These are my notes from Part III with other combinatorics and number theory material that I found interesting.
+
++ Michaelmas:
+  - Analytic Number Theory: [Notes](https://drive.google.com/file/d/1kpm58zLd7_8jtY-UMveCnDwitMbuguX9/view)
+  - Algebraic Methods in combinatorics:
+  - Probabilistic combinatorics:
+  - Local fields:
+  - Additive prime number theory:
