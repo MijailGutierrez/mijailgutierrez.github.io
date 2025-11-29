@@ -8,7 +8,7 @@ I am Mijail Gutierrez, a mathematics masters (Part III) student at Downing, Univ
 These are my notes from Part III with other combinatorics and number theory material that I found interesting.
 
 + Michaelmas:
-  - Analytic Number Theory: [Notes](https://drive.google.com/file/d/1kpm58zLd7_8jtY-UMveCnDwitMbuguX9/view)
+  - Analytic Number Theory: 
   - Algebraic Methods in combinatorics:
   - Probabilistic combinatorics:
   - Local fields:
